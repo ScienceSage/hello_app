@@ -2,3 +2,5 @@
 
 This is the first application for the [*Ruby on Rails Tutorial*](http://www.railstutorial.org/)
 by [Michael Hartl](http://www.michaelhartl.com/).
+
+This project is being used by Sage Thomas
